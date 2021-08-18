@@ -2,6 +2,7 @@
 
 ## Required Software
 Logisim Evolution: https://github.com/logisim-evolution/logisim-evolution
+For more information on how to use Logisim, please visit http://www.cburch.com/logisim/docs.html.
 
 ## Setup
 - After downloading the .jar file from the link provided, open the application.
