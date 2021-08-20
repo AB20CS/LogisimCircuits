@@ -14,6 +14,8 @@ For more information on how to use Logisim, please visit http://www.cburch.com/l
 ## Included Circuits
 - _Bouncing Square:_ An animation with a square that moves across the screen
 - _Hex Decoder:_ Converts a 4-bit binary input to a hexadecimal value displayed on a 7-segment display
+    ![image](https://user-images.githubusercontent.com/69637288/130247613-591c1483-3528-40a9-88c3-943f3fd6a638.png)
+    
 - _Morse Code Decoder:_ Converts an inputted letter to Morse code using a flashing LED
 - _Quadratic Calculator:_ Calculates the solution to <a href="https://www.codecogs.com/eqnedit.php?latex=ax^2&plus;bx^2&plus;c" target="_blank"><img src="https://latex.codecogs.com/svg.latex?ax^2&plus;bx^2&plus;c" title="ax^2+bx^2+c" /></a> after the user enters values for <a href="https://www.codecogs.com/eqnedit.php?latex=a" target="_blank"><img src="https://latex.codecogs.com/svg.latex?a" title="a" /></a>, <a href="https://www.codecogs.com/eqnedit.php?latex=b" target="_blank"><img src="https://latex.codecogs.com/svg.latex?b" title="b" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=c" target="_blank"><img src="https://latex.codecogs.com/svg.latex?c" title="c" /></a>
 - _Restoring Divider:_ An implementation of a restoring divider using a finite state machine (FSM)
