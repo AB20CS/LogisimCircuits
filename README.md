@@ -12,8 +12,8 @@ For more information on how to use Logisim, please visit http://www.cburch.com/l
     - To change the clock frequency, click on _Tick Frequency_ and choose your desired frequency
 
 ## Included Circuits
-- Bouncing Square
-- Hex Decoder
-- Morse Code Decoder
+- _Bouncing Square:_ An animation with a square that moves across the screen
+- _Hex Decoder:_ Converts a 4-bit binary input to a hexadecimal value displayed on a 7-segment display
+- _Morse Code Decoder:_ 
 - Quadratic Calculator
 - Restoring Divider
