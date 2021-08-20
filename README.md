@@ -10,3 +10,10 @@ For more information on how to use Logisim, please visit http://www.cburch.com/l
 - To ensure the clock ticks, navigate to _Simulate_ at the top of the screen
     - Check off the _Run Simulator_ and _Ticks Enabled_ checkboxes
     - To change the clock frequency, click on _Tick Frequency_ and choose your desired frequency
+
+## Included Circuits
+- Bouncing Square
+- Hex Decoder
+- Morse Code Decoder
+- Quadratic Calculator
+- Restoring Divider
