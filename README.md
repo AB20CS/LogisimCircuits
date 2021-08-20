@@ -14,6 +14,7 @@ For more information on how to use Logisim, please visit http://www.cburch.com/l
 ## Included Circuits
 - _Bouncing Square:_ An animation with a square that moves across the screen
 - _Hex Decoder:_ Converts a 4-bit binary input to a hexadecimal value displayed on a 7-segment display
-- _Morse Code Decoder:_ 
-- Quadratic Calculator
+- _Morse Code Decoder:_ Converts an inputted letter to Morse code using a flashing LED
+- _Quadratic Calculator:_ Calculates the solution to <a href="https://www.codecogs.com/eqnedit.php?latex=ax^2&plus;bx^2&plus;c" target="_blank"><img src="https://latex.codecogs.com/svg.latex?ax^2&plus;bx^2&plus;c" title="ax^2+bx^2+c" /></a> 
+-  
 - Restoring Divider
