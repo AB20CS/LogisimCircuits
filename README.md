@@ -13,7 +13,7 @@ For more information on how to use Logisim, please visit http://www.cburch.com/l
 
 ## Included Circuits
 - _Bouncing Square:_ An animation with a square that moves across the screen
-    
+    ![image](https://user-images.githubusercontent.com/69637288/130248611-3cb8d8a3-bf19-48a7-a4d0-e8bf6ffc7ed6.png)
 - _Hex Decoder:_ Converts a 4-bit binary input to a hexadecimal value displayed on a 7-segment display
     ![image](https://user-images.githubusercontent.com/69637288/130247613-591c1483-3528-40a9-88c3-943f3fd6a638.png)
 - _Morse Code Decoder:_ Converts an inputted letter to Morse code using a flashing LED
