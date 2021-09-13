@@ -9,7 +9,7 @@ For more information on how to use Logisim, please visit http://www.cburch.com/l
 - Open the desired .circ file via `File` > `Open`
 - To ensure the clock ticks, navigate to `Simulate` at the top of the screen
     - Check off the `Run Simulator` and `Ticks Enabled` checkboxes
-    - To change the clock frequency, click on _Tick Frequency_ and choose your desired frequency
+    - To change the clock frequency, click on `Tick Frequency` and choose your desired frequency
 
 ## Included Circuits
 - _Bouncing Square:_ An animation with a square that moves across the screen
